@@ -1,0 +1,25 @@
+{
+  "name": "@protobuf-ts/example-browser-grpcweb-transport-client",
+  "version": "2.0.4",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Stamm <ts@timostamm.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/timostamm/protobuf-ts",
+  "dependencies": {
+    "@protobuf-ts/grpcweb-transport": "^2.0.4",
+    "@protobuf-ts/runtime": "^2.0.4",
+    "@protobuf-ts/runtime-rpc": "^2.0.4"
+  },
+  "devDependencies": {
+    "@protobuf-ts/plugin": "^2.0.4",
+    "@protobuf-ts/protoc": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}

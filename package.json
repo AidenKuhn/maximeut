@@ -1,0 +1,14 @@
+{
+  "name": "maximeut",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "license": "(Apache-2.0 AND BSD-3-Clause)",
+  "author": "GunnerMonahan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AidenKuhn/maximeut.git"
+  },
+  "homepage": "https://github.com/AidenKuhn/maximeut.git",
+  "version": "1.0.0"
+}
